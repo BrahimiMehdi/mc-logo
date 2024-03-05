@@ -1,0 +1,11 @@
+
+img{
+  display: none;
+}
+#canv{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
